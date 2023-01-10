@@ -1,0 +1,2 @@
+class PathIsNotCorrect(Exception):
+    pass
